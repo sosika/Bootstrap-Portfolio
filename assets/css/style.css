@@ -35,6 +35,9 @@ body {
 .blog-post {
 	margin-bottom: 60px;
 }
+.blog-post img {
+	margin-right: 20px;
+}
 .blog-post-title {
 	margin-bottom: 5px;
 	font-size: 40px;
@@ -91,6 +94,14 @@ h1 {
 	.thumbnail a>img, .thumbnail>img {
 		margin: 0;
 		width: 100%;
+	}
+	.blog-main {
+		margin-left: 2%;
+		width: 96%;
+	}
+	.blog-sidebar {
+		width: 96%;
+		margin-right: 2%;
 	}
 }
 
